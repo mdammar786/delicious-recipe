@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mdammar786/delicious-recipe/static/css/main.f099b1ad.css",
+    "main.js": "/mdammar786/delicious-recipe/static/js/main.8e30a996.js",
+    "static/js/787.13aee4be.chunk.js": "/mdammar786/delicious-recipe/static/js/787.13aee4be.chunk.js",
+    "index.html": "/mdammar786/delicious-recipe/index.html",
+    "main.f099b1ad.css.map": "/mdammar786/delicious-recipe/static/css/main.f099b1ad.css.map",
+    "main.8e30a996.js.map": "/mdammar786/delicious-recipe/static/js/main.8e30a996.js.map",
+    "787.13aee4be.chunk.js.map": "/mdammar786/delicious-recipe/static/js/787.13aee4be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f099b1ad.css",
+    "static/js/main.8e30a996.js"
+  ]
+}
