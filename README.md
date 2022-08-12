@@ -20,4 +20,4 @@ Delicious Recipe is a web app made with ReactJS that uses the Spoonacular API to
 * react-icons
 * react-splide
 
-Backend(https://github.com/mdammar786/delicious-recipe-backend)
+[Backend](https://github.com/mdammar786/delicious-recipe-backend)
